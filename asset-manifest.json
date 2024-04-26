@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Dog_website/static/css/main.c1a22f24.css",
+    "main.js": "/Dog_website/static/js/main.85705d38.js",
+    "static/media/Walking Girl.mp4": "/Dog_website/static/media/Walking Girl.b2ea19da212800b181c6.mp4",
+    "static/media/17.webp": "/Dog_website/static/media/17.84a55fd353bda032f38d.webp",
+    "static/media/10.webp": "/Dog_website/static/media/10.6edc6048360e4366a55f.webp",
+    "static/media/16.webp": "/Dog_website/static/media/16.7e85c02d7401b72ed221.webp",
+    "static/media/4.webp": "/Dog_website/static/media/4.c066463bdb8520ac0c85.webp",
+    "static/media/13.webp": "/Dog_website/static/media/13.afeaf074a3ceb8973aa5.webp",
+    "static/media/14.webp": "/Dog_website/static/media/14.4371c47d414e2f893f3f.webp",
+    "static/media/2.webp": "/Dog_website/static/media/2.06165a72beb0227f5383.webp",
+    "static/media/3.webp": "/Dog_website/static/media/3.3194207e8ecce32780b2.webp",
+    "static/media/11.webp": "/Dog_website/static/media/11.ff814d278e317155d71c.webp",
+    "static/media/5.webp": "/Dog_website/static/media/5.a8accdf67c675a8c8849.webp",
+    "static/media/12.webp": "/Dog_website/static/media/12.71e54330c1abb10aa452.webp",
+    "static/media/15.webp": "/Dog_website/static/media/15.6dc5f8255ed12d92e514.webp",
+    "static/media/8.webp": "/Dog_website/static/media/8.7db69b0ce4fbc4a9e2f5.webp",
+    "static/media/6.webp": "/Dog_website/static/media/6.7842325f408cc0d9c715.webp",
+    "static/media/1.webp": "/Dog_website/static/media/1.0f439e84fb6bded4ac46.webp",
+    "static/media/7.webp": "/Dog_website/static/media/7.38c28594d7387b12078e.webp",
+    "static/media/kaushan-script-latin-400-normal.woff2": "/Dog_website/static/media/kaushan-script-latin-400-normal.2855d49bba6b2cb7bec5.woff2",
+    "static/media/9.webp": "/Dog_website/static/media/9.90c840257d023e8cae3a.webp",
+    "static/media/sirin-stencil-latin-400-normal.woff2": "/Dog_website/static/media/sirin-stencil-latin-400-normal.f668f96beabdc683277b.woff2",
+    "static/media/kaushan-script-latin-400-normal.woff": "/Dog_website/static/media/kaushan-script-latin-400-normal.3d9eea0f7ff318a0f05a.woff",
+    "static/media/kaushan-script-latin-ext-400-normal.woff2": "/Dog_website/static/media/kaushan-script-latin-ext-400-normal.5a05e21384fe4b1b9db7.woff2",
+    "static/media/sirin-stencil-latin-400-normal.woff": "/Dog_website/static/media/sirin-stencil-latin-400-normal.6b4d0f595c795f85ddb2.woff",
+    "static/media/kaushan-script-latin-ext-400-normal.woff": "/Dog_website/static/media/kaushan-script-latin-ext-400-normal.9f880c81439454e3dccc.woff",
+    "index.html": "/Dog_website/index.html",
+    "static/media/star_white_48dp.svg": "/Dog_website/static/media/star_white_48dp.2994ceef33868ef37a505f84e90e078b.svg",
+    "main.c1a22f24.css.map": "/Dog_website/static/css/main.c1a22f24.css.map",
+    "main.85705d38.js.map": "/Dog_website/static/js/main.85705d38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1a22f24.css",
+    "static/js/main.85705d38.js"
+  ]
+}
